@@ -81,3 +81,4 @@ GET https://newsapi.org/v2/top-headlines/sources?country=usapiKey=API_KEY
 
 GET https://newsapi.org/v2/top-headlines/sources?apiKey=API_KEY
 
+![Screenshot (1)](https://user-images.githubusercontent.com/105030944/189667252-9b6a53eb-491c-46d7-8d8b-1aa4f3658eae.png)
